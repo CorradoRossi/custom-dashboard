@@ -5,7 +5,7 @@
       "name": "Etherscan",
       "image": "https://etherscan.io/images/brandassets/etherscan-logo-circle.jpg",
       "link": "https://etherscan.io",
-      "location": "🇮🇹",
+      "location": "",
       "content": "The Ethereum Blockchain Explorer"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Opensea",
       "image": "https://static.opensea.io/og-images/Metadata-Image.png",
       "link": "https://opensea.io/",
-      "location": "🇫🇷",
+      "location": "",
       "content": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles."
     },
     {
@@ -21,7 +21,7 @@
       "name": "Opensea",
       "image": "https://static.opensea.io/og-images/Metadata-Image.png",
       "link": "https://opensea.io/",
-      "location": "🇫🇷",
+      "location": "",
       "content": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles."
     },
     {
@@ -29,8 +29,16 @@
       "name": "Opensea",
       "image": "https://static.opensea.io/og-images/Metadata-Image.png",
       "link": "https://opensea.io/",
-      "location": "🇫🇷",
+      "location": "",
       "content": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles."
+    },
+    {
+      "id": 4,
+      "name": "Web3 Awesome List",
+      "image": "",
+      "link": "https://github.com/ahmet/awesome-web3",
+      "location": "",
+      "content": "List of tools for web3 work"
     }
   ]
 }
